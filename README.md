@@ -10,7 +10,7 @@
   />
   <img src="https://miro.medium.com/max/1838/1*3AdbbRN3GoTbz72XqfO96g.png" width="55" alt="Eslint" />
   <img
-    src="https://firebase.google.com/images/brand-guidelines/logo-standard.png"
+    src="https://www.logolynx.com/images/logolynx/78/78d78e9dfeb3d38bf5c26419fb3c6b0f.png"
     width="55"
     alt="Prettier"
   />
