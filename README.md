@@ -1,3 +1,22 @@
+<h1 align="center">👻 SnapChat Clone</h1>
+
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="55" alt="React" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="55" alt="Redux" />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png"
+    width="55"
+    alt="JavaScript"
+  />
+  <img src="https://miro.medium.com/max/1838/1*3AdbbRN3GoTbz72XqfO96g.png" width="55" alt="Eslint" />
+  <img
+    src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png"
+    width="55"
+    alt="Prettier"
+  />
+  
+</div>
+
 [CLICK HERE FOR LIVE DEMO! :)](https://snapchat-ce14c.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
