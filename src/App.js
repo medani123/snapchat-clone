@@ -37,7 +37,9 @@ function App() {
           <Login />
         ) : (
           <>
-            <h2>Click on your profile pic (top left) to logout</h2>
+            <button className='app__btn' onClick={() => auth.signOut()}>
+              SIGN OUT
+            </button>
             <img
               className='app__logo'
               src='https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/06/Snapchat_logo-1024x538.jpg'

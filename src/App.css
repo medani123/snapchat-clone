@@ -25,3 +25,8 @@
   padding: 74px;
   width: 250px;
 }
+
+.app__btn {
+  color: black;
+  background-color: white;
+}
